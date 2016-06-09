@@ -6,4 +6,4 @@ he editado esto una tercera vez, después del primer commi
 
 tercera ediciónt
 
-Segunda versión de Irene genera conflicto por su parte
+I removed the conflict altogether
